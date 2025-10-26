@@ -55,7 +55,7 @@ Check them out here 👉 [**xinloihuy.github.io**](https://xinloihuy.github.io)
 
 ## 📫 Contact Me
 - ✉️ **Email:** [xinloihuy123@gmail.com](mailto:xinloihuy123@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 💼 **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/huy-xin-191901394)
 
 ---
 
