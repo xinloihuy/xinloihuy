@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Xin chào, mình là Lợi Huy!
 
-<!--
-**xinloihuy/xinloihuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Mình quan tâm đến:
+- 🛡️ Security Operations (SOC)
+- 🧩 Blue Team & Incident Response
+- 🧠 CTF và Threat Hunting
+🧰 Skills: Wireshark | Windows Event Logs | Linux | Threat Analysis
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📘 Blog write-ups: [https://xinloihuy.github.io](https://xinloihuy.github.io)
+
+---
+
+📫 Liên hệ mình qua:
+- Email: xinloihuy123@gmail.com
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
