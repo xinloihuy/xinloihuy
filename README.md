@@ -37,7 +37,7 @@ I'm passionate about **Blue Teaming**, **Security Operations (SOC)**, and **Inci
 - Familiar with **Visual Studio**, **VS Code**, **Git/GitHub**  
 - Built educational and research projects like:
   - 🧩 **2D Game with AI Search Algorithms (Pygame)**  
-  - 🧠 **8-Puzzle Solver with BFS, A*, and Greedy Search**  
+  - 🧠 **8-Puzzle Solver using BFS, A-star, and Greedy Search**  
   - 🔐 **Smart Lock Door (Arduino + RFID + Remote Control)**  
   - 🧾 **COVID-19 Data Management App with CRUD, Sort & Search**
 
