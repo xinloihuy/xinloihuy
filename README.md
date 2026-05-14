@@ -1,62 +1,56 @@
-# 👋 Hello, I'm Lợi Huy!
+# 👋 Hello, I'm Xin Loi Huy (Xín Lợi Huy)
+**Information Security Student @ HCMUTE**
 
-Welcome to my GitHub profile!  
-I'm passionate about **Blue Teaming**, **Security Operations (SOC)**, and **Incident Response** — where I focus on detecting, analyzing, and defending against cyber threats.
+<p align="left">
+  <img src="https://img.shields.io/badge/GPA-3.48%2F4.0-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Blue%20Team-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Seeking%20SOC%20Internship-orange?style=flat-square" />
+</p>
+
+Tôi là sinh viên năm 3 chuyên ngành **An toàn thông tin** tại Đại học Sư phạm Kỹ thuật TP.HCM. Tôi đam mê nghiên cứu sâu về cơ chế phát hiện tấn công, phân tích log và tự động hóa quy trình phản ứng sự cố.
 
 ---
 
 ## 🎯 Areas of Interest
-- 🛡️ **Security Operations (SOC)**
-- 🧩 **Blue Team & Incident Response**
-- 🧠 **CTF Challenges & Threat Hunting**
+- 🛡️ **Security Operations (SOC):** Giám sát và phát hiện đe dọa thời gian thực với Wazuh SIEM.
+- 🧩 **Incident Response:** Phân tích hành vi mã độc (Ransomware) và xử lý sự cố hệ thống.
+- 🧠 **AI in Security:** Phát triển AI Agent hỗ trợ phân tích bảo mật bằng Python & Gemini API.
+- ⛓️ **Blockchain Security:** Nghiên cứu ứng dụng hợp đồng thông minh trong các hệ thống minh bạch.
 
 ---
 
 ## 🧰 Skills & Tools
 
 ### 🛡️ Blue Team / SOC
-- SIEM tools: **Splunk**, **Elastic Stack (ELK)**  
-- Log sources: **Windows Event Logs**, **Sysmon**, **Firewall**, **Web Server Logs**  
-- Threat analysis & alert triage  
-- **Incident Response**, **Digital Forensics** (basic)  
-- Network capture and inspection with **Wireshark**, **tcpdump**
+- **SIEM:** Chuyên sâu **Wazuh** (vận hành, viết rule detection), Splunk, ELK.
+- **Monitoring & Logs:** Windows Event Logs, **Sysmon**, Auditd, Journald.
+- **Threat Hunting:** Phối hợp với **VirusTotal API** và Automated Active Response.
+- **Network Security:** Triển khai **VACL**, ngăn chặn OSPF injection và DNS Buffer Overflow (CVE-2009-0696).
 
-### 🧠 Offensive / CTF
-- **CTF experience** on CyberDefenders, BlueTeamLabs, and PicoCTF  
-- Practical skills in **Buffer Overflow**, **Privilege Escalation**, and **Web Exploitation**  
-- Familiar with **Burp Suite**, **Nmap**, **Metasploit**, **Kali Linux**
+### 🌐 Networking & Virtualization
+- **Network Modeling:** Thành thạo **GNS3** và VMware để giả lập hạ tầng Enterprise.
+- **Security Appliance:** Cấu hình **Fortinet (FortiGate, FortiManager)** và Cisco vIOS.
+- **High Availability:** Thiết kế hệ thống mạng dự phòng (Redundant Firewall, EtherChannel, OSPF).
 
-### 🧩 System & Network Fundamentals
-- Good understanding of **TCP/IP**, **DNS**, **HTTP**, and **VPN / Proxy concepts**  
-- Experience with **Ubuntu**, **Windows Server**, and **Kali Linux**  
-- Hands-on with **Nginx**, **Apache**, and **MySQL** configuration  
-- Basic **scripting and automation** in **Python** and **Bash**
-
-### 💻 Development & Tools
-- Programming: **C/C++**, **Python**, **C# (WinForms)**  
-- Familiar with **Visual Studio**, **VS Code**, **Git/GitHub**  
-- Built educational and research projects like:
-  - 🧩 **2D Game with AI Search Algorithms (Pygame)**  
-  - 🧠 **8-Puzzle Solver using BFS, A-star, and Greedy Search**  
-  - 🔐 **Smart Lock Door (Arduino + RFID + Remote Control)**  
-  - 🧾 **COVID-19 Data Management App with CRUD, Sort & Search**
+### 💻 Development & AI
+- **Programming:** Python (Asyncio, Function Calling), C/C++, C# (WinForms).
+- **AI/LLM:** Xây dựng **AI Agents** tích hợp Gemini API để xử lý tác vụ thông minh.
+- **Tools:** Git, Docker, Zabbix Monitoring.
 
 ---
 
-> ⚙️ *I combine Blue Team analysis with strong system and programming fundamentals — allowing me to understand both attacker behavior and defensive detection techniques.*
+## 🚀 Featured Projects
+- **Blockchain for Disaster Relief:** Hệ thống cứu trợ thiên tai minh bạch sử dụng Blockchain.
+- **High-Availability Network Design:** Thiết kế hạ tầng mạng chịu lỗi cho doanh nghiệp trên GNS3.
+- **Wazuh Active Response Lab:** Tự động cô lập máy tính bị nhiễm Ransomware bằng Wazuh & Sysmon.
+- **Smart Lock Door:** Hệ thống khóa cửa thông minh (Arduino + RFID + Remote Control).
 
 ---
 
 ## 📘 Blog & Write-ups
-I document my SOC and Blue Team journey through hands-on labs and write-ups.  
-Check them out here 👉 [**xinloihuy.github.io**](https://xinloihuy.github.io)
-
----
+Tôi ghi lại toàn bộ quá trình vọc vạch Lab và giải CTF tại đây:
+👉 [**xinloihuy.github.io**](https://xinloihuy.github.io)
 
 ## 📫 Contact Me
-- ✉️ **Email:** [xinloihuy123@gmail.com](mailto:xinloihuy123@gmail.com)  
+- ✉️ **Email:** [xinloihuy123@gmail.com](mailto:xinloihuy123@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/xinloihuy](https://www.linkedin.com/in/xinloihuy/)
-
----
-
-> *“Learning never stops — every alert, every log, and every packet tells a story.”*
