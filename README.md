@@ -33,7 +33,7 @@ Tôi là sinh viên năm 3 chuyên ngành **An toàn thông tin** tại Đại h
 - **High Availability:** Thiết kế hệ thống mạng dự phòng (Redundant Firewall, EtherChannel, OSPF).
 
 ### 💻 Development & AI
-- **Programming:** Python (Asyncio, Function Calling), C/C++, C# (WinForms).
+- **Programming:** Python (Asyncio, Function Calling), C/C++, C# (WinForms), Bash/Shell Scripting.
 - **AI/LLM:** Xây dựng **AI Agents** tích hợp Gemini API để xử lý tác vụ thông minh.
 - **Tools:** Git, Docker, Zabbix Monitoring.
 
