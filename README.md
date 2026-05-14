@@ -25,7 +25,7 @@ Tôi là sinh viên năm 3 chuyên ngành **An toàn thông tin** tại Đại h
 - **SIEM:** Chuyên sâu **Wazuh** (vận hành, viết rule detection), Splunk, ELK.
 - **Monitoring & Logs:** Windows Event Logs, **Sysmon**, Auditd, Journald.
 - **Threat Hunting:** Phối hợp với **VirusTotal API** và Automated Active Response.
-- **Network Security:** Có thể triển khai các giải pháp DHCP Snooping, Port Security, BPDU Guard, Access Control Lists (ACL), IDS
+- **Network Security:** Có thể triển khai các giải pháp DHCP Snooping, Port Security, BPDU Guard, Access Control Lists (ACL), IDS, VPN Remote Access...
 
 ### 🌐 Networking & Virtualization
 - **Network Modeling:** Thành thạo **GNS3** và VMware để giả lập hạ tầng Enterprise.
