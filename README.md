@@ -41,8 +41,7 @@ Tôi là sinh viên năm 3 chuyên ngành **An toàn thông tin** tại Đại h
 
 ## 🚀 Featured Projects
 - **Blockchain for Disaster Relief:** Hệ thống cứu trợ thiên tai minh bạch sử dụng Blockchain.
-- **High-Availability Network Design:** Thiết kế hạ tầng mạng chịu lỗi cho doanh nghiệp trên GNS3.
-- **Wazuh Active Response Lab:** Tự động cô lập máy tính bị nhiễm Ransomware bằng Wazuh & Sysmon.
+- **High-Availability Network Design:** Thiết kế hạ tầng mạng chịu lỗi và bảo mật chuẩn doanh nghiệp trên GNS3.
 - **Smart Lock Door:** Hệ thống khóa cửa thông minh (Arduino + RFID + Remote Control).
 
 ---
