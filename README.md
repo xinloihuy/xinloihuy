@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/badge/Status-Seeking%20SOC%20Internship-orange?style=flat-square" />
 </p>
 
-Tôi là sinh viên năm 3 chuyên ngành **An toàn thông tin** tại Đại học Sư phạm Kỹ thuật TP.HCM. Tôi đam mê nghiên cứu sâu về cơ chế phát hiện tấn công, phân tích log và tự động hóa quy trình phản ứng sự cố.
+Tôi là sinh viên năm 3 chuyên ngành **An toàn thông tin** tại Đại học Công nghệ Kỹ thuật TP.HCM. Tôi đam mê nghiên cứu sâu về cơ chế phát hiện tấn công, phân tích log và tự động hóa quy trình phản ứng sự cố.
 
 ---
 
 ## 🎯 Areas of Interest
-- 🛡️ **Security Operations (SOC):** Giám sát và phát hiện đe dọa thời gian thực với Wazuh SIEM.
-- 🧩 **Incident Response:** Phân tích hành vi mã độc (Ransomware) và xử lý sự cố hệ thống.
+- 🛡️ **Security Operations (SOC):** Giám sát và phát hiện đe dọa thời gian thực với Wazuh, Splunk, ELK Stack.
+- 🧩 **Incident Response:** Phân tích hành vi mã độc (Ransomware, Trojan Horse,...) và xử lý sự cố hệ thống.
 - 🧠 **AI in Security:** Phát triển AI Agent hỗ trợ phân tích bảo mật bằng Python & Gemini API.
 - ⛓️ **Blockchain Security:** Nghiên cứu ứng dụng hợp đồng thông minh trong các hệ thống minh bạch.
 
